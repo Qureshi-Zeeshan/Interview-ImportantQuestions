@@ -1,0 +1,15 @@
+C:\C Sharp\Interview_Questions\Interview_Questions\bin\Debug\net8.0\Interview_Questions.exe
+C:\C Sharp\Interview_Questions\Interview_Questions\bin\Debug\net8.0\Interview_Questions.deps.json
+C:\C Sharp\Interview_Questions\Interview_Questions\bin\Debug\net8.0\Interview_Questions.runtimeconfig.json
+C:\C Sharp\Interview_Questions\Interview_Questions\bin\Debug\net8.0\Interview_Questions.dll
+C:\C Sharp\Interview_Questions\Interview_Questions\bin\Debug\net8.0\Interview_Questions.pdb
+C:\C Sharp\Interview_Questions\Interview_Questions\obj\Debug\net8.0\Interview_Questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\C Sharp\Interview_Questions\Interview_Questions\obj\Debug\net8.0\Interview_Questions.AssemblyInfoInputs.cache
+C:\C Sharp\Interview_Questions\Interview_Questions\obj\Debug\net8.0\Interview_Questions.AssemblyInfo.cs
+C:\C Sharp\Interview_Questions\Interview_Questions\obj\Debug\net8.0\Interview_Questions.csproj.CoreCompileInputs.cache
+C:\C Sharp\Interview_Questions\Interview_Questions\obj\Debug\net8.0\Interview_Questions.sourcelink.json
+C:\C Sharp\Interview_Questions\Interview_Questions\obj\Debug\net8.0\Interview_Questions.dll
+C:\C Sharp\Interview_Questions\Interview_Questions\obj\Debug\net8.0\refint\Interview_Questions.dll
+C:\C Sharp\Interview_Questions\Interview_Questions\obj\Debug\net8.0\Interview_Questions.pdb
+C:\C Sharp\Interview_Questions\Interview_Questions\obj\Debug\net8.0\Interview_Questions.genruntimeconfig.cache
+C:\C Sharp\Interview_Questions\Interview_Questions\obj\Debug\net8.0\ref\Interview_Questions.dll
