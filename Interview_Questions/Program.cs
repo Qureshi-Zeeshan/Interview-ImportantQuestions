@@ -339,7 +339,7 @@ namespace InterveiwQuestions
             // Using Tuple
             //(a, b) = (b, a);
         }
-        public static void _2SumProblem(int [] array,int Target)
+       public static void _2SumProblem(int [] array,int Target)
         {
             Dictionary<int,int> Lefts = new Dictionary<int,int>();
             for(int i = 0;i < array.Length;i++)
@@ -350,7 +350,7 @@ namespace InterveiwQuestions
                     Console.WriteLine($"The element at index {Lefts[temp]} and {i} make {Target}");
                     return;
                 }
-                else if (!Lefts.ContainsKey(array[i]))
+                 else if (!Lefts.ContainsKey(array[i]))
                 {
                     Lefts[array[i]] = i;
                 }
@@ -374,6 +374,20 @@ namespace InterveiwQuestions
                 array[InsertPosition] = 0;
                 InsertPosition++;
             }
+        }
+        public static int BinaryToDecimal(int num)
+        {
+            int result = 0;
+            int lastnum = 0;
+            int i = 0;
+           while(num >0)
+            {
+                lastnum = num % 10;
+                result = result + lastnum * (int)Math.Pow(2, i);
+                num = num / 10;
+                i++;
+            }
+           return result;
         }
     }
 }
